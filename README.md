@@ -17,8 +17,8 @@ Foram selecionados quatro desafios de nível médio ou difícil na plataforma Le
 | ------------ | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Lucas Macedo | Merge BSTs to Create Single BST        | [Link](https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/?envType=problem-list-v2&envId=binary-tree)        |
 | Lucas Macedo | Recover a Tree From Preorder Traversal | [Link](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=problem-list-v2&envId=binary-tree) |
-| Yasmim Rosa  |                                        | [Link]()                                                                                                                            |
-| Yasmim Rosa  |                                        | [Link]()                                                                                                                            |
+| Yasmim Rosa  |    Median Updates                                    | [Link](https://www.hackerrank.com/challenges/median/problem?isFullScreen=true)                                                                                                                            |
+| Yasmim Rosa  |   Self Balancing Tree                                 | [Link](https://www.hackerrank.com/challenges/self-balancing-tree/problem)                                                                                                                            |
 
 ## Guia de instalação
 
@@ -38,6 +38,8 @@ Aqui tem as capturas de tela, conclusões e referências de cada desafio.
 
 - [Merge BSTs to Create Single BST](merge_bsts_single_bst/problem_solution.md)
 - [Recover a Tree From Preorder Traversal](recover_tree_preorder_tranversal/problem_solution.md)
+- [Median Updates](./median-updates/problem_resolution.md)
+- [Self Balancing Tree](./self-balancing-tree/problem_resolution.md)
 
 ## Vídeo de Apresentação
 
