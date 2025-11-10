@@ -17,8 +17,8 @@ Foram selecionados quatro desafios de nível médio ou difícil na plataforma Le
 | ------------ | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Lucas Macedo |                             | [Link]()                                |
 | Lucas Macedo |                             | [Link]()                            |
-| Yasmim Rosa  |  | [Link]() |
-| Yasmim Rosa  |                  | [Link]()                 |
+| Yasmim Rosa  |  | [Median Updates](https://www.hackerrank.com/challenges/median/problem?isFullScreen=true) |
+| Yasmim Rosa  |                  | [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem)                 |
 
 ## Guia de instalação
 
