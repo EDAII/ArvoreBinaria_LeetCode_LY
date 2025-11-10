@@ -13,12 +13,12 @@ Foram selecionados quatro desafios de nível médio ou difícil na plataforma Le
 
 ### Desafios
 
-| Nome         | Desafio                                              | Link LeetCode                                                                                                                       |
-| ------------ | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Lucas Macedo |                             | [Link]()                                |
-| Lucas Macedo |                             | [Link]()                            |
-| Yasmim Rosa  |  | [Link]() |
-| Yasmim Rosa  |                  | [Link]()                 |
+| Nome         | Desafio                                | Link LeetCode                                                                                                                       |
+| ------------ | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Lucas Macedo | Merge BSTs to Create Single BST        | [Link](https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/?envType=problem-list-v2&envId=binary-tree)        |
+| Lucas Macedo | Recover a Tree From Preorder Traversal | [Link](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=problem-list-v2&envId=binary-tree) |
+| Yasmim Rosa  |                                        | [Link]()                                                                                                                            |
+| Yasmim Rosa  |                                        | [Link]()                                                                                                                            |
 
 ## Guia de instalação
 
@@ -36,7 +36,8 @@ O projeto funciona de maneira simples. Apenas as bibliotecas padrões do Python 
 
 Aqui tem as capturas de tela, conclusões e referências de cada desafio.
 
-- **Inserir aqui o caminho para as pastas**
+- [Merge BSTs to Create Single BST](merge_bsts_single_bst/problem_solution.md)
+- [Recover a Tree From Preorder Traversal](recover_tree_preorder_tranversal/problem_solution.md)
 
 ## Vídeo de Apresentação
 
