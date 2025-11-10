@@ -1,36 +1,45 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Repositório Algoritmos de Ordenação - Exercícios de LeetCode
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
-## Alunos  
-| Matrícula | Nome |  
-|-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+## Alunos
+
+| Matrícula  | Nome                 |
+| ---------- | -------------------- |
+| 19/0091720 | Lucas Macedo Barboza |
+| 20/0029088 | Yasmim Oliveira Rosa |
+
 ## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
+
+Foram selecionados quatro desafios de nível médio ou difícil na plataforma LeetCode, sendo que cada membro da dupla ficou responsável por resolver dois desafios.
+
+### Desafios
+
+| Nome         | Desafio                                              | Link LeetCode                                                                                                                       |
+| ------------ | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Lucas Macedo |                             | [Link]()                                |
+| Lucas Macedo |                             | [Link]()                            |
+| Yasmim Rosa  |  | [Link]() |
+| Yasmim Rosa  |                  | [Link]()                 |
+
 ## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
+
+O projeto funciona de maneira simples. Apenas as bibliotecas padrões do Python são o suficiente para execução do projeto.
+
 ### Dependências do projeto
+
+- Python >= 3.11
+
 ### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+
+- Basta entrar na pasta de cada desafio e executar o arquivo com sufixo "\_test".
+
+## Documentação de cada desafio
+
+Aqui tem as capturas de tela, conclusões e referências de cada desafio.
+
+- **Inserir aqui o caminho para as pastas**
+
+## Vídeo de Apresentação
+
+Aqui está o vídeo de apresentação do projeto:
+
+[Link para o vídeo]() // Inserir o link do video
