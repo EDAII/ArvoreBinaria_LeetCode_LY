@@ -45,4 +45,4 @@ Aqui tem as capturas de tela, conclusões e referências de cada desafio.
 
 Aqui está o vídeo de apresentação do projeto:
 
-[Link para o vídeo]() // Inserir o link do video
+[Link para o vídeo](https://youtu.be/-ZdDiy_Fcv4)
