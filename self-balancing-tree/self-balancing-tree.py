@@ -66,14 +66,14 @@ def insert(root, new_val):
     
     return root
 
-def inorder(node, result):
+def inorder(node, result): #esquerda, raiz, direita
     if node is None:
         return
     inorder(node.left, result)
     result.append(f"{node.val}(BF={balance_factor(node)})")
     inorder(node.right, result)
 
-def preorder(node, result):
+def preorder(node, result): #raiz, esquerda, direita
     if node is None:
         return
     result.append(f"{node.val}(BF={balance_factor(node)})")

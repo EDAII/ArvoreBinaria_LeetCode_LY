@@ -1,6 +1,6 @@
-# AVL Tree Insert
+# Self Balancing Tree
 ## O problema
-Você recebe um ponteiro para a raiz de uma árvore AVL e precisa inserir um novo valor mantendo a propriedade de balanceamento. Uma árvore AVL é uma árvore binária de busca auto-balanceada onde a diferença de altura entre as subárvores esquerda e direita de qualquer nó (fator de balanceamento) não pode ser maior que 1.
+Você recebe um valor informando a quantidade de números que serão inseridos mantendo a propriedade de balanceamento. Uma árvore AVL é uma árvore binária de busca auto-balanceada onde a diferença de altura entre as subárvores esquerda e direita de qualquer nó (fator de balanceamento) não pode ser maior que 1.
 
 O fator de balanceamento é definido como:
 ```
@@ -8,7 +8,7 @@ balanceFactor = altura(subárvore esquerda) - altura(subárvore direita)
 ```
 
 As entradas esperadas são:
-* `root`: ponteiro para a raiz da árvore AVL
+* `root`: a quantidade de números a serem inseridos na árvore.
 * `new_val`: valor inteiro a ser inserido
 
 A saída é o ponteiro para a nova raiz da árvore após a inserção e rotações necessárias.
